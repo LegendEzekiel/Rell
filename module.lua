@@ -1,5 +1,5 @@
 
-if 3660216403 ~= Game.localPlayer.hash then --Game.HashStringSDBM("TwistedFate") == 3494766226
+if 3904786569 ~= Game.localPlayer.hash then --Game.HashStringSDBM("TwistedFate") == 3494766226
     return
 end
 Champions.CppScriptMaster(false);
